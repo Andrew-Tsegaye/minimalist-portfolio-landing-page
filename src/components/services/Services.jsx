@@ -70,9 +70,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Materials Knowledge</h2>
+          <h2>Programming Skills</h2>
           <p>
-          Familiarity with the properties and characteristics of various materials to make informed choices in material selection for a given application.
+          Basic coding abilities for tasks like simulation, automation, and data analysis.
           </p>
           <button>Go</button>
         </motion.div>
@@ -90,9 +90,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Programming Skills</h2>
+          <h2>Materials Knowledge</h2>
           <p>
-          Basic coding abilities for tasks like simulation, automation, and data analysis.
+          Familiarity with the properties and characteristics of various materials to make informed choices in material selection for a given application.
           </p>
           <button>Go</button>
         </motion.div>
