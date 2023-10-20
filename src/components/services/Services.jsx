@@ -60,9 +60,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Design and Drafting</h2>
+          <h2>Design & Drafting</h2>
           <p>
-          Competence in using computer software to create detailed drawings and models of mechanical components and systems.
+          Proficiency in using computer software to create detailed drawings and models of mechanical components and systems.
           </p>
           <button>Go</button>
         </motion.div>
@@ -70,9 +70,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Project Management</h2>
+          <h2>Project Oversight</h2>
           <p>
-          The skill to plan, execute, and oversee projects efficiently, ensuring they meet deadlines and budget constraints.
+          The ability to efficiently plan, execute, and oversee projects, ensuring they meet deadlines and budget constraints.
           </p>
           <button>Go</button>
         </motion.div>
@@ -82,7 +82,7 @@ const Services = () => {
         >
           <h2>Programming Skills</h2>
           <p>
-          Basic coding abilities for tasks like simulation, automation, and data analysis.
+          Proficiency in basic coding abilities, including scripting and programming languages, for simulation, process automation, and data analysis
           </p>
           <button>Go</button>
         </motion.div>
@@ -92,7 +92,7 @@ const Services = () => {
         >
           <h2>Materials Knowledge</h2>
           <p>
-          Familiarity with the properties and characteristics of various materials to make informed choices in material selection for a given application.
+          Understanding the properties and characteristics of various materials to make informed choices in material selection for a given application.
           </p>
           <button>Go</button>
         </motion.div>
