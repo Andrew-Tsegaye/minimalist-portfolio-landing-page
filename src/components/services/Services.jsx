@@ -70,9 +70,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Programming Skills</h2>
+          <h2>Project Management</h2>
           <p>
-          Basic coding abilities for tasks like simulation, automation, and data analysis.
+          The skill to plan, execute, and oversee projects efficiently, ensuring they meet deadlines and budget constraints.
           </p>
           <button>Go</button>
         </motion.div>
@@ -80,9 +80,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Project Management</h2>
+          <h2>Programming Skills</h2>
           <p>
-          The skill to plan, execute, and oversee projects efficiently, ensuring they meet deadlines and budget constraints.
+          Basic coding abilities for tasks like simulation, automation, and data analysis.
           </p>
           <button>Go</button>
         </motion.div>
